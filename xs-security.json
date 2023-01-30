@@ -3,7 +3,7 @@
     "tenant-mode": "dedicated",
     "scopes": [
         {
-            "name": "uaa.user",
+            "name": "$XSAPPNAME.user",
             "description": "UAA"
         }
         ,
