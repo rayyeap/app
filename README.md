@@ -1,2 +1,2 @@
 # app - App
-> My Business Application test
+> Business Application test
